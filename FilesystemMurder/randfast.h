@@ -1,3 +1,8 @@
+/// <summary>
+/// DISCLAIMER:
+/// Randfast is a c++ implementation by DVSProductions of the algorithm described here:
+/// https://stackoverflow.com/a/29485641/4203189
+/// </summary>
 #pragma once
 #include <inttypes.h>
 class randfast {
